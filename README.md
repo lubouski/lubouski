@@ -5,6 +5,6 @@
 
 <h2>📈 🙈 GitHub Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukhavtsov)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bukhavtsov&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubouski)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lubouski&show_icons=true)
 
