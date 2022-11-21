@@ -1,7 +1,7 @@
 <h1>Aliaksandr Lubouski (@lubouski) 👋 🤟</h1>
 
 - 💻 🎯 Core Stack: **Kubernetes, Golang, Linux, GCP, Ansible**. Cloud Native, Platform Automation, Reliability.
-- ✉️  💾 <a href="https://linkedin.com/in/lubouski"  target="blank">Linkedin</a> | <a href="https://t.me/lubowsky"  target="blank">Telegram</a>
+- ✉️  💾 <a href="https://linkedin.com/in/lubouski"  target="blank">Linkedin</a>
 
 <h2>📈 🙈 GitHub Stats</h2>
 
